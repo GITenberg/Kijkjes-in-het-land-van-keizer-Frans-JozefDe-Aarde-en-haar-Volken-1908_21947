@@ -1,0 +1,30 @@
+_repo: Kijkjes-in-het-land-van-keizer-Frans-JozefDe-Aarde-en-haar-Volken-1908_21947
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Uildriks, Frederike J. van
+    birthdate: 1854
+    deathdate: 1919
+    gutenberg_agent_id: '5396'
+    url: http://www.gutenberg.org/2009/agents/5396
+description: ''
+gutenberg_bookshelf: De Aarde en haar Volken
+gutenberg_issued: '2007-06-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '21947'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Austria -- Description and travel'
+- !lcsh 'Vienna (Austria) -- Description and travel'
+- !lcc 'DB'
+title: 'Kijkjes in het land van keizer Frans Jozef
+
+  De Aarde en haar Volken, 1908'
+url: http://www.gutenberg.org/ebooks/21947
